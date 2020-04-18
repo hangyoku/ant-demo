@@ -1,0 +1,14 @@
+{
+    "roleMenuDetail": [
+        {"key":0,"title": "首页1","value":"M0001","children":[
+            {"key":"01","title": "首页1-0","value":"M0001-0","children":[]},
+            {"key":"01","title": "首页1-0","value":"M0001-0","children":[]},
+            {"key":"01","title": "首页1-0","value":"M0001-0","children":[]},
+            {"key":"01","title": "首页1-0","value":"M0001-0","children":[]}
+        ]},
+        {"key":1,"title": "首页2","value":"M0002","children":[]},
+        {"key":2,"title": "首页3","value":"M0003","children":[]},
+        {"key":3,"title": "首页4","value":"M0004","children":[]},
+        {"key":4,"title": "首页5","value":"M0005","children":[]}
+    ]
+}
